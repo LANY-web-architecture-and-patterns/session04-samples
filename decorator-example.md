@@ -1,4 +1,6 @@
-Certainly! Here's the complete HTML page integrating the JavaScript and CSS code for the enhanced web button using the Decorator pattern:
+# Decorator Pattern Example
+
+Here's the complete HTML page integrating the JavaScript and CSS code for the enhanced web button using the Decorator pattern:
 
 ```html
 <!DOCTYPE html>

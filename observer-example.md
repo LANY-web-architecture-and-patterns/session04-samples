@@ -1,4 +1,6 @@
-Sure! Let's create a simple web-based notification system using the Observer pattern.
+# Observer Pattern Example
+
+Let's create a simple web-based notification system using the Observer pattern.
 
 In this example, when a new notification is posted via the input field, all registered devices (observers) will be updated with the new notification.
 
@@ -69,7 +71,7 @@ In this example, when a new notification is posted via the input field, all regi
 </html>
 ```
 
-In this example:
+**In this example**:
 
 - The `NotificationService` class is the subject that maintains a list of observers and notifies them of new notifications.
 - The `Device` class is an observer that updates its display when it receives a new notification.
